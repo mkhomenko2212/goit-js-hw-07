@@ -22,7 +22,7 @@ function createGalleryMarkuu(galleryItems) {
     <img
       class="gallery__image"
       src="${preview}"
-      data-source="large-image.jpg"
+      data-source="${original}"
       alt="${description}"
     />
   </a>
